@@ -17,7 +17,7 @@
 package rpcconsensus
 
 import (
-	rpcclient "github.com/blckit/go-rpc-client"
+	rpcclient "github.com/blocktop/go-rpc-client"
 	"github.com/google/uuid"
 )
 
